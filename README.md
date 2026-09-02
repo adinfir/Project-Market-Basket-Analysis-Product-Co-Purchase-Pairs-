@@ -160,7 +160,7 @@ These additional metrics would help distinguish between products that are simply
 
 ## 👤 Author
 
-[Curriculum Vitae](https://xxx) | [Portfolio](https://xxx)
+[Curriculum Vitae](https://drive.google.com/file/d/1Sf1mfTCJu-IcL2qFh0gElmXqYrTEsl3b/view?usp=sharing) | [Portfolio](https://public.tableau.com/app/profile/adin4572/vizzes)
 
 **Adient Fir**
 
